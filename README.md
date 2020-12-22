@@ -1,4 +1,4 @@
-![](https://github.com/gaofeng1366/Salute_Git/blob/main/image/Git.jpg?raw=true)
+![](https://github.com/gaofeng1366/Salute_Git/blob/main/image/Git.jpg)
 
 * [Salute\_Git](#salute_git)
   * [介绍](#介绍)
