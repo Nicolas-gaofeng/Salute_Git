@@ -49,7 +49,5 @@ Linus对新的系统制订了若干目标：
 
 ​	容错性差
 
-![image-20201222160643405](C:\Users\zgf\AppData\Roaming\Typora\typora-user-images\image-20201222160643405.png)
-
 Git是分布式版本控制系统
 
