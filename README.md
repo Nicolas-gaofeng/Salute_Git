@@ -1,6 +1,12 @@
 ![](https://github.com/gaofeng1366/Salute_Git/blob/main/image/Git.jpg?raw=true)
 
-[TOC]
+* [Salute\_Git](#salute_git)
+  * [介绍](#介绍)
+  * [下载](#下载)
+  * [Git概述](#git概述)
+    * [Git的前世今生](#git的前世今生)
+    * [Git特点](#git特点)
+    * [Git与SVN对比](#git与svn对比)
 
 ## 介绍
 
