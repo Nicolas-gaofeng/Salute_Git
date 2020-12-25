@@ -2,6 +2,8 @@
 
 [![LICENSE APACHE 2.0](https://img.shields.io/static/v1.svg?label=LICENSE&message=Apache 2.0&color=0059b3&style=flat-square)](https://github.com/Nicolas-gaofeng/Salute_Git/blob/main/LICENSE)
 
+[![contributions welcome](https://img.shields.io/static/v1.svg?label=LICENSE&message=Apache 2.0&color=0059b3&style=flat-square)](https://github.com/Nicolas-gaofeng/Salute_Git/blob/main/LICENSE)
+
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/TheAlgorithms/Python/blob/master/CONTRIBUTING.md)
 
 ## 介绍
