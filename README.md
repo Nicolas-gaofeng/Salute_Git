@@ -1,8 +1,6 @@
 ![](./image/Git.jpg)
 
-[![LICENSE APACHE 2.0](https://img.shields.io/static/v1.svg?label=LICENSE&message=Apache 2.0&color=0059b3&style=flat-square)](https://github.com/Nicolas-gaofeng/Salute_Git/blob/main/LICENSE)
-
-[![contributions welcome](https://img.shields.io/static/v1.svg?label=LICENSE&message=Apache 2.0&color=0059b3&style=flat-square)](https://github.com/Nicolas-gaofeng/Salute_Git/blob/main/LICENSE)
+![LICENSE-APACHE](https://img.shields.io/badge/LICENSE-APACHE%202.0-brightgreen)
 
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/TheAlgorithms/Python/blob/master/CONTRIBUTING.md)
 
@@ -143,6 +141,7 @@
   * [7\.2 添加ssh账户](#72-添加ssh账户)
   * [7\.3 自动生成README\.md目录](#73-自动生成readmemd目录)
   * [7\.4 怎么删除某个文件夹](#74-怎么删除某个文件夹)
+  * [7\.5 给README文件添加icon](#75-给README文件添加icon)
 * [八、工作使用git](#八工作使用git)
 
 ## 下载与安装
@@ -990,6 +989,22 @@ $ git push -u origin master # 将本次更改更新到github项目上去
 
 注:本地项目中的target文件夹不收操作影响,删除的只是远程仓库中的target, 可放心删除
 每次增加文件或删除文件，都要commit 然后直接 git push -u origin master，就可以同步到github上了
+
+### 7.5 给README文件添加icon
+
+![License](.\image\license-Apache 2-green.svg)
+
+实际上分别是由三个不同的第三方生成的图:
+
+https://shields.io
+
+这个网站可以自定义一些徽章，并且还提供了从github上读取状态的功能。https://travis-ci.org
+
+这个是一个持续集成网站，他会对项目持续编译，然后给出一个徽章显示实时的状态。
+
+https://bintray.com
+
+这个是一个代码仓库，说到jcenter应该就比较熟悉了，他就是jcenter，项目传到jcenter后会给个徽章实时显示当前的最新版本。
 
 ## 八、工作使用git
 
