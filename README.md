@@ -1,6 +1,8 @@
 ![](./image/Git.jpg)
 
-![License](https://camo.githubusercontent.com/d91b507f47ff4b1fb9a0a9033975da75e91fbd507c6f39bbe68827630ac62391/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d41706163686520322e302d626c75652e737667)
+[![LICENSE APACHE 2.0](https://img.shields.io/static/v1.svg?label=LICENSE&message=Apache 2.0&color=0059b3&style=flat-square)](https://github.com/Nicolas-gaofeng/Salute_Git/blob/main/LICENSE)
+
+[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/TheAlgorithms/Python/blob/master/CONTRIBUTING.md)
 
 ## 介绍
 
