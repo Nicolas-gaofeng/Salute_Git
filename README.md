@@ -998,7 +998,9 @@ $ git push -u origin master # 将本次更改更新到github项目上去
 
 https://shields.io
 
-这个网站可以自定义一些徽章，并且还提供了从github上读取状态的功能。https://travis-ci.org
+这个网站可以自定义一些徽章，并且还提供了从github上读取状态的功能。
+
+https://travis-ci.org
 
 这个是一个持续集成网站，他会对项目持续编译，然后给出一个徽章显示实时的状态。
 
