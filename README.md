@@ -53,21 +53,3 @@
 -  在线访问地址：
 
 ​	https://nicolas-gaofeng.github.io/Salute_Git/
-
-
-
-## 其他链接
-
-[菜鸟学习Java-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Java)
-
-[菜鸟学习Python-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Python)
-
-[菜鸟学习算法-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Algorithm)
-
-[菜鸟学习机器学习-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Machine_Learning)
-
-[菜鸟学习深度学习-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Deep_Learning)
-
-[菜鸟学习知识图谱-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Knowledge_Graph)
-
-[菜鸟学习数学-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Math)

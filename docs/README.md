@@ -30,7 +30,31 @@ nicolasgaofeng@gmail.com
 
 如果本仓库存在的内容对您和您的利益产生损害，请立即私信，我们将在最短时间内对其做出处理。
 
+## 其他
 
+[菜鸟学习Java-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Java)
+
+[菜鸟学习Python-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Python)
+
+[菜鸟学习知识图谱-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Knowledge_Graph)
+
+[菜鸟学习Docsify-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Docsify)
+
+[菜鸟学习操作系统-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Operating_System)
+
+[菜鸟学习算法-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Algorithm)
+
+[菜鸟学习机器学习-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Machine_Learning)
+
+[菜鸟学习深度学习-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Deep_Learning)
+
+[菜鸟学习Node.js-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Nodejs)
+
+[菜鸟学习Linux-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Linux)
+
+[菜鸟学习数学-从入门到跑路](https://github.com/Nicolas-gaofeng/Salute_Math)
+
+[学习IT路上遇到的问题](https://github.com/Nicolas-gaofeng/Salute_Problem)
 
 ## 鸣谢
 
@@ -38,5 +62,5 @@ nicolasgaofeng@gmail.com
 
 
 
-> [Salute_Git](https://github.com/Nicolas-gaofeng/Salute_Git) ©2020 Powered By [docsify](https://github.com/docsifyjs/docsify/).
+> [Salute_Git](https://github.com/Nicolas-gaofeng/Salute_Git) ©2021 Powered By [docsify](https://github.com/docsifyjs/docsify/).
 
